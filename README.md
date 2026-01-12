@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Smridhi Gupta</h1>
-<h3 align="center">A passionate full stack developer from India and I am currently working on my skills to become a software developer.</h3>
+<h3 align="center">Full Stack Developer skilled in Next.js, React, Node.js, and REST APIs, with experience building responsive,
+SEO-optimized web platforms. Strong CS fundamentals and hands-on expertise in clean UI/UX, scalable
+architectures, and cloud-based development. Focused on delivering fast, maintainable, production-ready
+applications.</h3>
 
-- 🔭 I’m currently working on **MERN stack**
+- 🔹 Working with MERN stack for full-stack web development
+- 🔹 Hands-on experience with AI/ML projects and integrations
 
-- 🌱 I’m currently learning **AI/ML**
 
-- 📫 How to reach me **smridhi196@gmail.com**
+📫 Contact: smridhi196@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/smridhi-gupta01/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
