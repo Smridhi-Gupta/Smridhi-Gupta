@@ -1,8 +1,16 @@
 <h1 align="left">Hi 👋, I'm Smridhi Gupta</h1>
 <h3 align="center">Full Stack Developer (React & Next.js) building scalable, SEO-optimized web apps with clean UI/UX and cloud expertise.</h3>
 
-- 🔹 Working with MERN stack for full-stack web development
-- 🔹 Hands-on experience with AI/ML projects and integrations
+<div style="border-left: 4px solid #38bdf8; padding-left: 12px; margin: 12px 0;">
+⚙️ Full Stack Developer turning ideas into scalable, production-ready web solutions.<br>
+🎨 Frontend-focused with React & Next.js, crafting clean, intuitive user experiences.<br>
+🚀 Skilled in building SEO-friendly platforms, admin dashboards, and robust REST APIs.<br>
+☁️ Hands-on with cloud-based deployments and services on AWS.<br>
+🤝 Open to collaborating on impactful Full Stack and SaaS products.<br>
+📬 Let’s connect: smridhi196@gmail.com
+</div>
+
+
 
 
 📫 Contact: smridhi196@gmail.com  
